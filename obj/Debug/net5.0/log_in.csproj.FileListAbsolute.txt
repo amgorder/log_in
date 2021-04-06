@@ -1,0 +1,16 @@
+C:\source\codeworks\csharp\log_in\bin\Debug\net5.0\log_in.exe
+C:\source\codeworks\csharp\log_in\bin\Debug\net5.0\log_in.deps.json
+C:\source\codeworks\csharp\log_in\bin\Debug\net5.0\log_in.runtimeconfig.json
+C:\source\codeworks\csharp\log_in\bin\Debug\net5.0\log_in.runtimeconfig.dev.json
+C:\source\codeworks\csharp\log_in\bin\Debug\net5.0\log_in.dll
+C:\source\codeworks\csharp\log_in\bin\Debug\net5.0\ref\log_in.dll
+C:\source\codeworks\csharp\log_in\bin\Debug\net5.0\log_in.pdb
+C:\source\codeworks\csharp\log_in\obj\Debug\net5.0\log_in.csprojAssemblyReference.cache
+C:\source\codeworks\csharp\log_in\obj\Debug\net5.0\log_in.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\csharp\log_in\obj\Debug\net5.0\log_in.AssemblyInfoInputs.cache
+C:\source\codeworks\csharp\log_in\obj\Debug\net5.0\log_in.AssemblyInfo.cs
+C:\source\codeworks\csharp\log_in\obj\Debug\net5.0\log_in.csproj.CoreCompileInputs.cache
+C:\source\codeworks\csharp\log_in\obj\Debug\net5.0\log_in.dll
+C:\source\codeworks\csharp\log_in\obj\Debug\net5.0\ref\log_in.dll
+C:\source\codeworks\csharp\log_in\obj\Debug\net5.0\log_in.pdb
+C:\source\codeworks\csharp\log_in\obj\Debug\net5.0\log_in.genruntimeconfig.cache
